@@ -188,3 +188,88 @@
 // else if(oprt === "%"){
 //     alert(first % second)
 // }
+
+// chapter # 12-13
+
+// Qno# 1
+
+
+
+
+
+
+
+// // Qno# 2
+// var int1 = prompt("enter your integer")
+// var int2 = prompt("enter your integer")
+
+// if(int1 > int2){
+//     alert(int1 + " " + " is larger than" +" "+ int2)
+// }
+// else if(int1 === int2){
+//      alert(int1 + " " + " is Equal to" +" "+ int2)
+// }
+
+
+//  // Qno# 3
+
+//  var num = +prompt("Enter your num")
+//  if(num > 0){
+//     alert("number is positive")
+//  }
+//  else if(num < 0){
+//     alert("number is negative")
+//  }
+//  else if(num === 0){
+//     alert("number is zero")
+//  }
+
+// // Qno# 4
+
+// var alp = prompt("Enter a Alphabet")
+
+// if( alp === "a" || alp === "A"){
+//     alert("This is an vowel")
+// }
+// else if( alp === "e" || alp === "E"){
+//     alert("This is an vowel")
+// }
+// else if( alp === "i" || alp === "I"){
+//     alert("This is an vowel")
+// }
+// else if( alp === "o" || alp === "O"){
+//     alert("This is an vowel")
+// }
+// else if( alp === "u" || alp === "U"){
+//     alert("This is an vowel")
+// }
+// else{
+//     alert("This is not a vowel")
+// }
+
+
+// // Qno# 5
+
+// var pass = "smit123"
+// var entPass = prompt("Enter your Password")
+// if(pass === entPass){
+//     alert("Correct! The password you entered matches the original password.")
+// }
+// else{
+//     alert("Try again")
+// }
+
+// // Qno 6
+
+// var hour = 13;
+// if (hour < 18) {
+// greeting = "Good day";
+// }
+// else{
+// greeting = "Good evening";
+// }
+
+
+// // Qno 7
+
+// var time = +prompt("enter Time")
